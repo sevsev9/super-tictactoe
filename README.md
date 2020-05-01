@@ -3,7 +3,7 @@
 
 By
 - [Sev](https://github.com/sevsev9)
-- [Christian](https://github.com/sevsev9)
+- [Christian](https://github.com/Christian-Hoeller)
 
 ## Mechanics
 // Sample: - (mechanic name) [priority (low-high) 0-100]
