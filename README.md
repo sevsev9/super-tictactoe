@@ -1,5 +1,5 @@
 # super-tictactoe
-[Super Tic Tac Toe Project](supertictactoe.co)
+[Super Tic Tac Toe Project](https://www.supertictactoe.co)
 
 By
 - [Sev](https://github.com/sevsev9)
