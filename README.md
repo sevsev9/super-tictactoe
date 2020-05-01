@@ -21,6 +21,7 @@ Incorporating vue-router site management
   - Multiplayer
   - Player Search
     - Rank Matching
+    - Seperate Service (Any backend language really)
   - VS Ai
 - Ranking
 - Arena Skins
