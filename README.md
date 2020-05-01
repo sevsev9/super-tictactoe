@@ -6,9 +6,17 @@ By
 - [Christian](https://github.com/Christian-Hoeller)
 
 ## Mechanics
+Incorporating vuex state management
+Incorporating vue-router site management
+
 // Sample: - (mechanic name) [priority (low-high) 0-100]
 
 - Login
+  - Firebase OAuth
+  - E-Mail
+- Register
+  - Firebase OAuth
+  - E-Mail
 - Game
   - Multiplayer
   - Player Search
