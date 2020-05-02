@@ -1,10 +1,15 @@
 <template>
-
+  <h1 align="center"> Login </h1>
 </template>
 
 <script>
   export default {
-    name: 'Login'
+    name: 'Login',
+    data: () => {
+      return {
+
+      }
+    }
   }
 </script>
 
