@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb3f34d3-d98c-4514-9c4f-b6102a5f53cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chat_module/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/.idea/node_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/files/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../node_server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bSJpsIkPWRBWkH3D0QoqOlhsZi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3f34d3-d98c-4514-9c4f-b6102a5f53cc" name="Default Changelist" comment="" />
+      <created>1588619746444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588619746444</updated>
+      <workItem from="1588619748046" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
