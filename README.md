@@ -22,6 +22,8 @@ Incorporating vue-router site management
   - Player Search
     - Rank Matching
     - Seperate Service (Any backend language really)
+    - IPs Stored in list on Backend
+    - One Click Only mechanism to prevent ip scraping
   - VS Ai
 - Ranking
 - Arena Skins
