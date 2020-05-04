@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3f34d3-d98c-4514-9c4f-b6102a5f53cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chat_module/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -63,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588619746444</updated>
-      <workItem from="1588619748046" duration="1425000" />
+      <workItem from="1588619748046" duration="3520000" />
     </task>
     <servers />
   </component>
@@ -74,13 +88,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588624719769">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588624722323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624719769" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624722323" />
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588624641913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624641913" />
+    <state x="667" y="122" width="680" height="795" key="find.popup" timestamp="1588625805896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="122" width="680" height="795" key="find.popup/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588625805896" />
   </component>
 </project>
