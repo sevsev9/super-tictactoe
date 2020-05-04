@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3f34d3-d98c-4514-9c4f-b6102a5f53cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chat_module/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/.idea/node_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/files/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../node_server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +39,7 @@
       <method v="2" />
     </configuration>
     <configuration name="npm serve" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/package.json" />
+      <package-json value="$PROJECT_DIR$/../chat_module/package.json" />
       <command value="run" />
       <scripts>
         <script value="serve" />
@@ -65,6 +48,10 @@
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm serve" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588619746444</updated>
-      <workItem from="1588619748046" duration="1303000" />
+      <workItem from="1588619748046" duration="1425000" />
     </task>
     <servers />
   </component>
@@ -85,5 +72,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588624719769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624719769" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588624641913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624641913" />
   </component>
 </project>
