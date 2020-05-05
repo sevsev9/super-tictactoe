@@ -57,9 +57,9 @@ data: {
 ```
 
 Once connected the server will check the if the user is already existent in the `users` array.
-If it is already existent it will set the `socket_id` field to the socket id of the connected user and add a reference in the `online_users` array.
+If it is already existent it will set the `socket_id` field to the socket id of the connected user and add a reference in the `online_users` map, where the key is the socket_id of the connected user.
 
-Should the user not be already contained in the `users` array, the server will create a new user object and 
+Should the user not be already contained in the `users` array, the server will create a new user object and push it into the users map.
 
 ##### Receive Message from Client
 The Listener is set to the name `new message`. When a new message is received from the client socket it contains only a string.
