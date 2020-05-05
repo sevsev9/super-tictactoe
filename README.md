@@ -65,6 +65,27 @@ Should the user not be already contained in the `users` array, the server will c
 The Listener is set to the name `new message`. When a new message is received from the client socket it contains only a string.
 This string is then taken from the server and a new message object is created. Furthermore the message will be sent to the dedicated channel (socket id, room, etc.)
 
+```
+{
+    to: Object,
+    content: String
+}
+```
+
+To specify where this message is destined to go the field to contains a `Object` which determines the forwarding.
+This object can either contain one of the following:
+```
+{
+    user_id: String,
+    username: String,
+    socket_id: String,
+    room_name: String
+}
+```
+
+The server will then act accordingly and foreward the message.
+
+
 
 #### Datamodel
 ##### User
