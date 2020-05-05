@@ -8,6 +8,7 @@ By
 ## Mechanics
 Incorporating vuex state management
 Incorporating vue-router site management
+Incorporating socket.io for event driven live communication
 
 // Sample: - (mechanic name) [priority (low-high) 0-100]
 
@@ -28,4 +29,8 @@ Incorporating vue-router site management
 - Ranking
 - Arena Skins
 - Circles and Crosses Skins
-  
+
+
+## Resources
+### Socket.io
+- [socket.io cheatsheet](https://socket.io/docs/emit-cheatsheet/)
