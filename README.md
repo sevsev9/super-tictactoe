@@ -61,6 +61,12 @@ If it is already existent it will set the `socket_id` field to the socket id of 
 
 Should the user not be already contained in the `users` array, the server will create a new user object and 
 
+##### Receive Message from Client
+The Listener is set to the name `new message`. When a new message is received from the client socket it contains only a string.
+This string is then taken from the server and a new message object is created. Furthermore the message will be sent to the dedicated channel (socket id, room, etc.)
+
+
+#### Datamodel
 ##### User
 A user object consists of a `username`, `user_id`, and the `socket_id` over which the user is connected to a service.
 Furthermore it includes all messages this specific user has sent.
