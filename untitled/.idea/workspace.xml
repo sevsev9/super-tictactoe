@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3f34d3-d98c-4514-9c4f-b6102a5f53cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Register.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../node_server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat_module" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -78,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588619746444</updated>
       <workItem from="1588619748046" duration="3520000" />
+      <workItem from="1588667961661" duration="38000" />
     </task>
     <servers />
   </component>
@@ -96,9 +89,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624641913" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588667997917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588667997917" />
     <state x="667" y="122" width="680" height="795" key="find.popup" timestamp="1588625805896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="122" width="680" height="795" key="find.popup/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588625805896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../chat_module/src/views/Login.vue</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
