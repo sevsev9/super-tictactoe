@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7475a561-4b86-4d23-8e0a-03ac2bfa1629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Message.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Message.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Message.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/User.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588620451221</updated>
       <workItem from="1588620452613" duration="4520000" />
-      <workItem from="1588667961318" duration="2558000" />
+      <workItem from="1588667961318" duration="4631000" />
     </task>
     <servers />
   </component>
@@ -92,10 +82,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588622229958" />
-    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1588670495406">
+    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1588671665118">
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588670495406" />
+    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588671665118" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588622227334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
