@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7475a561-4b86-4d23-8e0a-03ac2bfa1629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/ChatWindow.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/ChannelList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/EmoteKeyboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Profile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket_io/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket_io/chat_handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket_io/file_handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -15,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,8 +62,13 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="ts.external.directory.path" value="A:\dev\git\super-tictactoe\node_server\node_modules\typescript\lib" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\dev\git\super-tictactoe\node_server\socket_io" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="NodeJSConfigurationType" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -69,6 +85,8 @@
       <workItem from="1588620452613" duration="4520000" />
       <workItem from="1588667961318" duration="9607000" />
       <workItem from="1589191882279" duration="1015000" />
+      <workItem from="1589730953964" duration="562000" />
+      <workItem from="1592055630274" duration="1531000" />
     </task>
     <servers />
   </component>
@@ -79,17 +97,19 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588622229958">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1506" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592056888846">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
+    <state x="-1506" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1592056888846" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588622229958" />
     <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1588671665118">
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
     <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588671665118" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588622227334">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1180" y="279" key="FileChooserDialogImpl" timestamp="1592056887888">
+      <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
+    <state x="-1180" y="279" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1592056887888" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588622227334" />
     <state width="1899" height="128" key="GridCell.Tab.0.bottom" timestamp="1588670052085">
       <screen x="-1920" y="5" width="1920" height="1040" />

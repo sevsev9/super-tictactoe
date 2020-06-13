@@ -1,8 +1,6 @@
 let users = []
 let online_users =  new Map() //contains map entry -> [socketid, user]
 
-
-
 /**
  * @returns The user if it is in the list, otherwise null.
  * */

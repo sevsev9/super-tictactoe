@@ -13,6 +13,7 @@
     "bufferutil": "^4.0.1",
     "express": "^4.17.1",
     "socket.io": "^2.3.0",
+    "sockjs": "^0.3.20",
     "typescript": "^3.8.3",
     "utf-8-validate": "^5.0.2",
     "vue-socket.io": "^3.0.9"

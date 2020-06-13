@@ -1,14 +1,14 @@
-var app = require('express')();
-var http = require('http').createServer(app);
-var io = require('socket.io')(http);
+const http = require('http');
+const sockjs = require('sockjs');
 
-const {initIndex} = require("./file_handler");
-const {initChat} = require("./chat_handler");
-
-initChat(io)
-initIndex(app)
-
-
-http.listen(3000, () => {
-    console.log('listening on *:3000');
+const echo = sockjs.createServer({ prefix:'/echo' });
+echo.on('connection', function(conn) {
+    conn.on('data', function(message) {
+        conn.write(message);
+    });
+    conn.on('close', function() {});
 });
+
+const server = http.createServer();
+echo.attach(server);
+server.listen(9999, '0.0.0.0');
