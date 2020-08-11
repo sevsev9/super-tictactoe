@@ -3,7 +3,6 @@
 
 By
 - [Sev](https://github.com/sevsev9)
-- [Christian](https://github.com/Christian-Hoeller)
 
 ## Mechanics
 Incorporating vuex state management
