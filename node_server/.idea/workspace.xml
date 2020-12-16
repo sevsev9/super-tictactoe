@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7475a561-4b86-4d23-8e0a-03ac2bfa1629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/ChatWindow.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/ChannelList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/EmoteKeyboard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/Message.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chat_module/src/views/Profile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket_io/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/views/Chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/subcomponents/InputContainer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/ChatWindow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_module/src/components/chatwindow/ChatWindow.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket_io/chat_handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket_io/file_handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.7.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../corona-contact-form/js/frontend" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -87,6 +76,11 @@
       <workItem from="1589191882279" duration="1015000" />
       <workItem from="1589730953964" duration="562000" />
       <workItem from="1592055630274" duration="1531000" />
+      <workItem from="1592154861735" duration="628000" />
+      <workItem from="1592575903756" duration="1864000" />
+      <workItem from="1592738017996" duration="2409000" />
+      <workItem from="1592844943686" duration="1653000" />
+      <workItem from="1599895359514" duration="647000" />
     </task>
     <servers />
   </component>
@@ -101,39 +95,10 @@
       <screen x="-1920" y="5" width="1920" height="1040" />
     </state>
     <state x="-1506" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1592056888846" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588622229958" />
-    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1588671665118">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state x="-1155" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588671665118" />
-    <state x="-1180" y="279" key="FileChooserDialogImpl" timestamp="1592056887888">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state x="-1180" y="279" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1592056887888" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588622227334" />
-    <state width="1899" height="128" key="GridCell.Tab.0.bottom" timestamp="1588670052085">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="128" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588670052085" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624573800" />
-    <state width="1899" height="128" key="GridCell.Tab.0.center" timestamp="1588670052085">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="128" key="GridCell.Tab.0.center/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588670052085" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624573800" />
-    <state width="1899" height="128" key="GridCell.Tab.0.left" timestamp="1588670052085">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="128" key="GridCell.Tab.0.left/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588670052085" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624573800" />
-    <state width="1899" height="128" key="GridCell.Tab.0.right" timestamp="1588670052085">
-      <screen x="-1920" y="5" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="128" key="GridCell.Tab.0.right/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1588670052085" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588624573800" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1588623359509">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1599902123168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1588623359509" />
+    <state x="-1180" y="279" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@-1920.5.1920.1040" timestamp="1592056887888" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/-1920.5.1920.1040/0.-1080.1920.1040/-1935.-1075.1920.1040/1920.-1085.1920.1040@0.0.1920.1040" timestamp="1599902123168" />
   </component>
 </project>
