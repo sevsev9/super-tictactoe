@@ -1,6 +1,6 @@
 <template>
-  <div>
-      <b-table ref="playerTable" hover :items="items" :fields="fields"></b-table>
+  <div style="display: flex">
+      <b-table ref="playerTable" hover :items="items" :fields="fields" style="margin: auto"></b-table>
   </div>
 </template>
 

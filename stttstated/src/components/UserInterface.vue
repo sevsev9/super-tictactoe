@@ -31,9 +31,7 @@ export default {
   height: 100vh;
 }
 
-.uigrid > * {
-  border: 1px dashed grey;
-}
+
 
 .heading {
   height: 5vh;
