@@ -1,8 +1,10 @@
 <template>
   <div class="winscreen">
     <div class="center">
-      <h1>Congratulations {{ $store.getters.winner.name }}!</h1>
-      <p>You Won with a score of {{$store.getters.winner.score}}!</p>
+      <h1 v-if="$store.state.player1.score === $store.state.player2.score">It's a tie!</h1>
+      <p v-if="$store.state.player1.score === $store.state.player2.score">You tied with a score of {{$store.getters.winner.score}}!</p>
+      <h1 v-else-if="$store.state.player1.score !== $store.state.player2.score">Congratulations {{ $store.getters.winner.name }}!</h1>
+      <p v-else-if="$store.state.player1.score !== $store.state.player2.score">You Won with a score of {{$store.getters.winner.score}}!</p>
     </div>
 
     <div class="button_bar">
