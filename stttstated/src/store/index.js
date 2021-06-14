@@ -63,7 +63,6 @@ function getNextMove(finished, position) {
     return nextPos;
 }
 
-
 /**
  * Creates a matrix containing row sums, col sums and both diagonal sums.
  * @param bin_matrix Binary matrix to calculate sums.
