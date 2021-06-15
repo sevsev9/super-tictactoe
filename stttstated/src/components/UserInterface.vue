@@ -31,8 +31,6 @@ export default {
   height: 100vh;
 }
 
-
-
 .heading {
   height: 5vh;
 }
