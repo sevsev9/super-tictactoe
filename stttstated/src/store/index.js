@@ -129,7 +129,7 @@ export default new Vuex.Store({
                     state.gameDone = state.finished.flat().map(e => Object.keys(e).length !== 0).reduce((e, n) => e && n);
 
                     if (state.gameDone) { //fill in winning player
-                        state.winner = state.playing;
+                        state.winner = (state.player1.score > state.player2.score) ? state.player1 : state.player2;
                         return; // stops method from executing
                     }
                 }
